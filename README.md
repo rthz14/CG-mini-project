@@ -73,11 +73,11 @@ python bg_blur.py
 
 ## 🛠️ How It Works
 
-1. **Capture** — Reads frames from your webcam
-2. **Segment** — MediaPipe detects the person and creates a mask
-3. **Blur** — Applies selected blur technique to the entire frame
-4. **Composite** — Combines original person with blurred background
-5. **Display** — Shows the result in real-time
+1. **Capture** - Reads frames from your webcam
+2. **Segment** - MediaPipe detects the person and creates a mask
+3. **Blur** - Applies selected blur technique to the entire frame
+4. **Composite** - Combines original person with blurred background
+5. **Display** - Shows the result in real-time
 
 ## 📊 Technical Details
 
